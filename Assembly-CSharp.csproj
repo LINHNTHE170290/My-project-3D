@@ -63,22 +63,35 @@
     <Compile Include="Assets\Scripts\SwingingHammerTrap.cs" />
     <Compile Include="Assets\Scripts\SawTrap.cs" />
     <Compile Include="Assets\Platformer Starter Pack_Standard\Scripts\SimpleCameraController.cs" />
+    <Compile Include="Assets\Scripts\SpringJump.cs" />
     <Compile Include="Assets\Scripts\MoveByPoints.cs" />
     <Compile Include="Assets\Invector-3rdPersonController_LITE\3D Models\Others\HealthItem\vAnimateUV.cs" />
     <Compile Include="Assets\Scripts\RotatingTrap.cs" />
     <Compile Include="Assets\Invector-3rdPersonController_LITE\Scripts\Generic\Utils\vExtensions.cs" />
     <Compile Include="Assets\Invector-3rdPersonController_LITE\Scripts\CharacterController\vThirdPersonMotor.cs" />
     <Compile Include="Assets\Invector-3rdPersonController_LITE\Scripts\CharacterController\vThirdPersonInput.cs" />
+    <Compile Include="Assets\Scripts\MovingTrap.cs" />
     <Compile Include="Assets\Scripts\TiltingTrap.cs" />
+    <Compile Include="Assets\Scripts\GameManager.cs" />
     <Compile Include="Assets\Invector-3rdPersonController_LITE\Scripts\Camera\vThirdPersonCamera.cs" />
     <Compile Include="Assets\Invector-3rdPersonController_LITE\Scripts\Generic\Utils\vPickupItem.cs" />
+    <Compile Include="Assets\Scripts\SpikeTrap.cs" />
+    <Compile Include="Assets\Scripts\FireDamage.cs" />
+    <Compile Include="Assets\Scripts\Checkpoint.cs" />
     <Compile Include="Assets\Invector-3rdPersonController_LITE\Scripts\CharacterController\vThirdPersonAnimator.cs" />
     <Compile Include="Assets\Invector-3rdPersonController_LITE\Scripts\CharacterController\vThirdPersonController.cs" />
+    <Compile Include="Assets\Scripts\ExceptionErrors.cs" />
+    <Compile Include="Assets\Scripts\CheckpointManager.cs" />
+    <Compile Include="Assets\Scripts\UIManager.cs" />
+    <Compile Include="Assets\Scripts\FireTrap.cs" />
     <Compile Include="Assets\Invector-3rdPersonController_LITE\Scripts\Generic\Utils\vComment.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Assets\LiteFireEffect\Shader\ParticlePremultiplyBlend.shader" />
     <None Include="Assets\Invector-3rdPersonController_LITE\README_Basic.txt" />
+    <None Include="Assets\LiteFireEffect\Shader\ParticleBlendEffect.shader" />
     <None Include="Assets\POLY STYLE - Platformer Starter Pack\Readme.txt" />
+    <None Include="Assets\LiteFireEffect\Shader\ParticleAddEffect.shader" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
