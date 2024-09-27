@@ -60,7 +60,9 @@
     <Analyzer Include="D:\Program Files\Unity Hub\Editor\2022.3.45f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\Time.cs" />
     <Compile Include="Assets\Scripts\SwingingHammerTrap.cs" />
+    <Compile Include="Assets\Scripts\GameoverUIManager.cs" />
     <Compile Include="Assets\Scripts\SawTrap.cs" />
     <Compile Include="Assets\Platformer Starter Pack_Standard\Scripts\SimpleCameraController.cs" />
     <Compile Include="Assets\Scripts\SpringJump.cs" />
@@ -80,9 +82,9 @@
     <Compile Include="Assets\Scripts\Checkpoint.cs" />
     <Compile Include="Assets\Invector-3rdPersonController_LITE\Scripts\CharacterController\vThirdPersonAnimator.cs" />
     <Compile Include="Assets\Invector-3rdPersonController_LITE\Scripts\CharacterController\vThirdPersonController.cs" />
+    <Compile Include="Assets\Scripts\HomeUIManager.cs" />
     <Compile Include="Assets\Scripts\ExceptionErrors.cs" />
     <Compile Include="Assets\Scripts\CheckpointManager.cs" />
-    <Compile Include="Assets\Scripts\UIManager.cs" />
     <Compile Include="Assets\Scripts\FireTrap.cs" />
     <Compile Include="Assets\Invector-3rdPersonController_LITE\Scripts\Generic\Utils\vComment.cs" />
   </ItemGroup>
